@@ -15,6 +15,7 @@ Para comenzar con el reto, sigue los pasos a continuación:
 1. Instala las dependencias:
 
 ```
+git clone https://github.com/Estrategia-e-innovacion-de-TI/Reto-Genesis-Encontrar-a-Mateo.git
 cd RetoGenesis
 yarn install
 ```
